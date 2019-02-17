@@ -1,0 +1,31 @@
+Print Out of Your ARP Information on: 2019-02-16 01:49:10
+
+Interface: 192.168.0.105 --- 0xd
+Internet Address      Physical Address      Type
+192.168.0.1           c0-4a-00-eb-b9-f0     dynamic
+192.168.0.100         00-30-18-a4-57-03     dynamic
+192.168.0.101         4c-57-ca-86-5f-18     dynamic
+192.168.0.108         14-dd-a9-4f-fd-fa     dynamic
+192.168.0.255         ff-ff-ff-ff-ff-ff     static
+224.0.0.2             01-00-5e-00-00-02     static
+224.0.0.22            01-00-5e-00-00-16     static
+224.0.0.251           01-00-5e-00-00-fb     static
+224.0.0.252           01-00-5e-00-00-fc     static
+239.255.255.250       01-00-5e-7f-ff-fa     static
+255.255.255.255       ff-ff-ff-ff-ff-ff     static
+Interface: 192.168.56.1 --- 0xf
+Internet Address      Physical Address      Type
+192.168.56.255        ff-ff-ff-ff-ff-ff     static
+224.0.0.2             01-00-5e-00-00-02     static
+224.0.0.22            01-00-5e-00-00-16     static
+224.0.0.251           01-00-5e-00-00-fb     static
+224.0.0.252           01-00-5e-00-00-fc     static
+239.255.255.250       01-00-5e-7f-ff-fa     static
+Interface: 172.17.211.33 --- 0x1a
+Internet Address      Physical Address      Type
+172.17.211.47         ff-ff-ff-ff-ff-ff     static
+224.0.0.2             01-00-5e-00-00-02     static
+224.0.0.22            01-00-5e-00-00-16     static
+224.0.0.251           01-00-5e-00-00-fb     static
+239.255.255.250       01-00-5e-7f-ff-fa     static
+255.255.255.255       ff-ff-ff-ff-ff-ff     static

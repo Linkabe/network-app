@@ -1,0 +1,16 @@
+Print Out of Your Diagnositic Trace Route & Path Ping Information in: 2019-02-16 14:34:54
+
+Tracing route to google-public-dns-a.google.com [8.8.8.8]
+over a maximum of 30 hops:
+1     5 ms     1 ms     1 ms  192.168.0.1
+2    11 ms     5 ms    14 ms  172.25.1.197
+3     8 ms    12 ms     7 ms  10.26.112.25
+4    12 ms    12 ms    10 ms  10.26.112.1
+5    11 ms    10 ms    14 ms  10.26.1.5
+6    23 ms    12 ms    21 ms  10.13.1.14
+7    17 ms    13 ms    10 ms  10.13.8.2
+8    16 ms    14 ms    13 ms  inex.google.com [185.6.36.57]
+9    27 ms    12 ms    11 ms  74.125.243.209
+10    25 ms    17 ms    14 ms  209.85.244.131
+11    18 ms    12 ms    13 ms  google-public-dns-a.google.com [8.8.8.8]
+Trace complete.

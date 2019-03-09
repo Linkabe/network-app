@@ -1,19 +1,78 @@
-Print Out of Your Network Status on: 2019-02-16 01:49:10
+Print Out of Your Network Status on: 2019-02-19 11:23:19
 
-Active Connections
-Proto  Local Address          Foreign Address        State
-TCP    127.0.0.1:49671        127.0.0.1:49672        ESTABLISHED
-TCP    127.0.0.1:49672        127.0.0.1:49671        ESTABLISHED
-TCP    127.0.0.1:52762        127.0.0.1:52763        ESTABLISHED
-TCP    127.0.0.1:52763        127.0.0.1:52762        ESTABLISHED
-TCP    127.0.0.1:52764        127.0.0.1:52765        ESTABLISHED
-TCP    127.0.0.1:52765        127.0.0.1:52764        ESTABLISHED
-TCP    192.168.0.105:52505    40.67.248.104:443      ESTABLISHED
-TCP    192.168.0.105:52766    209.85.202.188:5228    ESTABLISHED
-TCP    192.168.0.105:52814    13.69.75.239:443       CLOSE_WAIT
-TCP    192.168.0.105:52815    13.69.75.239:443       CLOSE_WAIT
-TCP    192.168.0.105:52816    13.69.75.239:443       CLOSE_WAIT
-TCP    192.168.0.105:52817    13.69.75.239:443       CLOSE_WAIT
-TCP    192.168.0.105:53180    152.199.19.161:443     CLOSE_WAIT
-TCP    192.168.0.105:53277    13.107.42.15:443       TIME_WAIT
-TCP    192.168.0.105:53278    209.85.202.94:443      TIME_WAIT
+Windows IP Configuration
+Host Name . . . . . . . . . . . . : BabyBowser
+Primary Dns Suffix  . . . . . . . :
+Node Type . . . . . . . . . . . . : Hybrid
+IP Routing Enabled. . . . . . . . : No
+WINS Proxy Enabled. . . . . . . . : No
+Ethernet adapter Ethernet:
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . : STUDENTNET.ait.ie
+Description . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+Physical Address. . . . . . . . . : E8-9D-87-DD-F5-2B
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Ethernet adapter VirtualBox Host-Only Network:
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+Physical Address. . . . . . . . . : 0A-00-27-00-00-0F
+DHCP Enabled. . . . . . . . . . . : No
+Autoconfiguration Enabled . . . . : Yes
+Link-local IPv6 Address . . . . . : fe80::b52d:70b3:a440:9aff%15(Preferred)
+IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Default Gateway . . . . . . . . . :
+DHCPv6 IAID . . . . . . . . . . . : 352976935
+DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-57-EF-10-E8-9D-87-DD-F5-2B
+DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+fec0:0:0:ffff::2%1
+fec0:0:0:ffff::3%1
+NetBIOS over Tcpip. . . . . . . . : Enabled
+Wireless LAN adapter Local Area Connection* 10:
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Microsoft Hosted Network Virtual Adapter
+Physical Address. . . . . . . . . : 88-53-2E-33-FF-C3
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Wireless LAN adapter WiFi:
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Intel(R) Centrino(R) Advanced-N 6230
+Physical Address. . . . . . . . . : 88-53-2E-33-FF-C2
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Link-local IPv6 Address . . . . . : fe80::85a6:4702:34a4:2ec8%13(Preferred)
+IPv4 Address. . . . . . . . . . . : 192.168.43.80(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Lease Obtained. . . . . . . . . . : Tuesday, February 19, 2019 11:09:14 AM
+Lease Expires . . . . . . . . . . : Tuesday, February 19, 2019 12:09:14 PM
+Default Gateway . . . . . . . . . : 192.168.43.1
+DHCP Server . . . . . . . . . . . : 192.168.43.1
+DHCPv6 IAID . . . . . . . . . . . : 92820270
+DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-57-EF-10-E8-9D-87-DD-F5-2B
+DNS Servers . . . . . . . . . . . : 192.168.43.1
+NetBIOS over Tcpip. . . . . . . . : Enabled
+Ethernet adapter Bluetooth Network Connection:
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+Physical Address. . . . . . . . . : 88-53-2E-33-FF-C6
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Ethernet adapter vEthernet (Default Switch):
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+Physical Address. . . . . . . . . : 8C-15-FE-C0-EC-3F
+DHCP Enabled. . . . . . . . . . . : No
+Autoconfiguration Enabled . . . . : Yes
+Link-local IPv6 Address . . . . . : fe80::d9d8:4e07:2f25:7aa2%24(Preferred)
+IPv4 Address. . . . . . . . . . . : 172.17.170.225(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.240
+Default Gateway . . . . . . . . . :
+DHCPv6 IAID . . . . . . . . . . . : 415372637
+DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-57-EF-10-E8-9D-87-DD-F5-2B
+DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+fec0:0:0:ffff::2%1
+fec0:0:0:ffff::3%1
+NetBIOS over Tcpip. . . . . . . . : Enabled
